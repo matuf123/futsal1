@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Booking Lapangan Futsal",
+  "description": "Sistem booking lapangan futsal modern, profesional, dan responsif dengan fitur kelola lapangan, jadwal, pembayaran, lapor, dan manajemen pengguna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
