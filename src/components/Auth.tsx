@@ -209,7 +209,7 @@ export default function Auth({ onLoginSuccess }: AuthProps) {
         </div>
         <div>
           <h1 className="text-2xl font-bold font-display tracking-tight text-white inline-flex items-center gap-1">
-            CHAMPION<span className="text-emerald-400">FUTSAL</span>
+            CHAMPION<span className="text-emerald-400">FUTSA</span>
           </h1>
           <p className="text-xs text-slate-400 font-mono tracking-wider">SISTEM BOOKING LAPANGAN MODERN</p>
         </div>
